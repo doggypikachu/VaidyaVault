@@ -2,12 +2,12 @@
   "name": "vaidya-vault",
   "private": true,
   "version": "2.1.0",
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "export": "next build && next export"
-  },
+ "scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+}
+
   "dependencies": {
     "next": "14.2.5",
     "react": "18.2.0",
