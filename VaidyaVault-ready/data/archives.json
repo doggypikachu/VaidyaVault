@@ -1,0 +1,165 @@
+[
+  {
+    "slug": "tkdl-india",
+    "title": "Traditional Knowledge Digital Library (TKDL)",
+    "region": "South Asia",
+    "lat": 28.6139,
+    "lng": 77.209,
+    "era": "Contemporary",
+    "culture": "India (Ayurveda, Unani, Siddha, Sowa\u2011Rigpa, Yoga)",
+    "type": "Digital repository",
+    "institution": "CSIR & Ministry of AYUSH",
+    "summary": "India\u2019s flagship repository documenting traditional medical formulations and texts to prevent biopiracy and support research.",
+    "languages": [
+      "Sanskrit",
+      "Hindi",
+      "Tamil",
+      "Urdu",
+      "English (metadata)"
+    ],
+    "media": [
+      "Text",
+      "Database"
+    ],
+    "access": "Licensed access; metadata open",
+    "license": "CSIR terms",
+    "url": "https://www.csir.res.in/tkdl"
+  },
+  {
+    "slug": "wellcome-arabic-manuscripts",
+    "title": "Wellcome Arabic Manuscripts Online",
+    "region": "Middle East & North Africa",
+    "lat": 51.52,
+    "lng": -0.1337,
+    "era": "Medieval",
+    "culture": "Arabic/Islamicate Medicine",
+    "type": "Digitized manuscripts",
+    "institution": "Wellcome Collection",
+    "summary": "High\u2011resolution Arabic medical manuscripts, including Avicenna and Ibn al\u2011Naf\u012bs.",
+    "languages": [
+      "Arabic"
+    ],
+    "media": [
+      "IIIF images",
+      "Catalog"
+    ],
+    "access": "Open access",
+    "license": "Item\u2011specific",
+    "url": "https://wellcomecollection.org/"
+  },
+  {
+    "slug": "unschuld-chinese-medical-manuscripts",
+    "title": "Unschuld Collection \u2014 Chinese Medical Manuscripts",
+    "region": "East Asia",
+    "lat": 52.5163,
+    "lng": 13.3777,
+    "era": "Medieval",
+    "culture": "China (TCM)",
+    "type": "Digitized manuscripts",
+    "institution": "Berlin State Library / CrossAsia",
+    "summary": "Rare Chinese medical manuscripts; many digitized for open research.",
+    "languages": [
+      "Classical Chinese"
+    ],
+    "media": [
+      "Images",
+      "Catalog"
+    ],
+    "access": "Open access",
+    "license": "Library terms",
+    "url": "https://themen.crossasia.org/chinesemedicalmanuscripts/"
+  },
+  {
+    "slug": "bdrc-tibetan-medical-texts",
+    "title": "BDRC \u2014 Tibetan Medical & Astrological Literature",
+    "region": "Himalaya",
+    "lat": 27.7172,
+    "lng": 85.324,
+    "era": "Medieval",
+    "culture": "Sowa\u2011Rigpa (Tibetan)",
+    "type": "Digital repository",
+    "institution": "Buddhist Digital Resource Center",
+    "summary": "Open holdings of Tibetan medical manuscripts and xylographs; many items digitized.",
+    "languages": [
+      "Tibetan",
+      "English (metadata)"
+    ],
+    "media": [
+      "Images",
+      "PDF",
+      "Catalog"
+    ],
+    "access": "Open access (many)",
+    "license": "Repository terms",
+    "url": "https://www.tbrc.org/"
+  },
+  {
+    "slug": "unesco-kallawaya",
+    "title": "UNESCO \u2014 Andean Cosmovision of the Kallawaya",
+    "region": "Andes",
+    "lat": -15.8398,
+    "lng": -67.187,
+    "era": "Medieval",
+    "culture": "Kallawaya (Bolivia)",
+    "type": "ICH inscription",
+    "institution": "UNESCO ICH",
+    "summary": "Heritage listing recognizing Kallawaya ancestral medical techniques, rituals and plant knowledge.",
+    "languages": [
+      "Spanish",
+      "English",
+      "French"
+    ],
+    "media": [
+      "Catalog",
+      "Narrative"
+    ],
+    "access": "Open",
+    "license": "UNESCO terms",
+    "url": "https://ich.unesco.org/en/RL/andean-cosmovision-of-the-kallawaya-00160"
+  },
+  {
+    "slug": "aiatsis-bush-medicine",
+    "title": "AIATSIS \u2014 Bush medicine collections (selected)",
+    "region": "Australia",
+    "lat": -35.308,
+    "lng": 149.124,
+    "era": "Modern",
+    "culture": "Aboriginal & Torres Strait Islander",
+    "type": "Collections portal",
+    "institution": "AIATSIS",
+    "summary": "Collections with records of bush medicine practices, films, subject guides, and digitised materials.",
+    "languages": [
+      "English",
+      "Indigenous languages (in items)"
+    ],
+    "media": [
+      "Catalog",
+      "Audio/Video",
+      "Guides"
+    ],
+    "access": "Open metadata; access varies",
+    "license": "AIATSIS terms",
+    "url": "https://aiatsis.gov.au/"
+  },
+  {
+    "slug": "who-png-medicinal-plants",
+    "title": "WHO \u2014 Medicinal Plants in Papua New Guinea (WPRO)",
+    "region": "Oceania",
+    "lat": -9.4438,
+    "lng": 147.1803,
+    "era": "Modern",
+    "culture": "Papua New Guinea (multiple)",
+    "type": "Open report",
+    "institution": "WHO Western Pacific Regional Office",
+    "summary": "Open monograph summarizing 126 commonly used medicinal plants in PNG; references national Traditional Medicine Database.",
+    "languages": [
+      "English"
+    ],
+    "media": [
+      "PDF"
+    ],
+    "access": "Open",
+    "license": "WHO terms",
+    "url": "https://www.who.int/westernpacific/publications-detail-redirect/9789290612487"
+  }
+]
