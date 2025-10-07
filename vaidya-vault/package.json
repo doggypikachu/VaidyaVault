@@ -17,6 +17,9 @@
     "leaflet": "1.9.4",
     "react-leaflet": "4.2.1",
     "mirador": "3.4.1"
+    "@blueprintjs/core": "5.9.0",
+    "@blueprintjs/icons": "5.9.0"
+
   },
   "devDependencies": {
     "autoprefixer": "10.4.19",
