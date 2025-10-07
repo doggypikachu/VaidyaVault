@@ -21,8 +21,9 @@ jobs:
       - name: Install dependencies
         run: npm install --legacy-peer-deps
 
-      - name: Build & Export static site
-        run: npm run export
+      - name: Build static site
+        run: npm run build
+
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
