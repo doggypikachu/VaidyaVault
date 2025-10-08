@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "ancient-healing-manuscripts",
+    "title": "Ancient Healing Manuscripts",
+    "type": "Collection",
+    "description": "Foundational texts that shaped medical lineages.",
+    "items": [
+      "ayurveda-india",
+      "tcm-china",
+      "greek-hippocratic"
+    ]
+  },
+  {
+    "slug": "women-healers",
+    "title": "Women Healers Across History",
+    "type": "Collection",
+    "description": "Midwives, herbalists, and community healers.",
+    "items": [
+      "ayurveda-india"
+    ]
+  },
+  {
+    "slug": "desert-remedies",
+    "title": "Desert Remedies",
+    "type": "Collection",
+    "description": "Therapeutics developed in arid ecologies.",
+    "items": [
+      "islamicate-galenic"
+    ]
+  }
+]

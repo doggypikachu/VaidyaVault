@@ -1,0 +1,1 @@
+export default function A(){return(<div className='card'><h1 className='text-2xl font-semibold'>About</h1><p className='text-white/70 mt-2'>Vaidya Vault is a community-guided archive celebrating cultural medical knowledge.</p></div>);}

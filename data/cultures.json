@@ -1,0 +1,166 @@
+[
+  {
+    "id": "ayurveda-india",
+    "name": "Ayurveda (India)",
+    "region": "South Asia",
+    "coordinates": [
+      20.5937,
+      78.9629
+    ],
+    "keywords": [
+      "Ayurveda",
+      "herbal",
+      "dosha",
+      "Charaka",
+      "Sushruta"
+    ],
+    "summary": "Holistic system from the Indian subcontinent emphasizing balance among doshas and environment; classical texts include Charaka and Sushruta Samhitas.",
+    "tips": "Core concepts: Vata, Pitta, Kapha; daily routines (dinacharya); seasonal regimens (ritucharya).",
+    "themes": [
+      "Plant-based Remedies",
+      "Surgery & Anatomy",
+      "Trade & Transmission"
+    ],
+    "years": [
+      -200,
+      2024
+    ],
+    "documents": [
+      {
+        "title": "Charaka Sa\u1e43hit\u0101 (editions vary)",
+        "url": "https://archive.org/",
+        "type": "Reference"
+      },
+      {
+        "title": "Su\u015bruta Sa\u1e43hit\u0101 (editions vary)",
+        "url": "https://archive.org/",
+        "type": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "greek-hippocratic",
+    "name": "Hippocratic Medicine (Greece)",
+    "region": "Mediterranean",
+    "coordinates": [
+      39.0742,
+      21.8243
+    ],
+    "keywords": [
+      "Hippocrates",
+      "humors",
+      "Kos"
+    ],
+    "summary": "Classical Greek tradition associated with Hippocrates; emphasized clinical observation and humoral theory.",
+    "tips": "Four humors: blood, phlegm, yellow bile, black bile; case histories in the Epidemics.",
+    "themes": [
+      "Surgery & Anatomy",
+      "Epidemics"
+    ],
+    "years": [
+      -400,
+      400
+    ],
+    "documents": [
+      {
+        "title": "Hippocratic Corpus (Loeb)",
+        "url": "https://www.loebclassics.com/",
+        "type": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "tcm-china",
+    "name": "Traditional Chinese Medicine (China)",
+    "region": "East Asia",
+    "coordinates": [
+      35.8617,
+      104.1954
+    ],
+    "keywords": [
+      "Huangdi Neijing",
+      "acupuncture",
+      "yin yang",
+      "qi"
+    ],
+    "summary": "System emphasizing qi flow, yin\u2013yang balance, and five phases; textual core includes the Huangdi Neijing.",
+    "tips": "Diagnostic methods: looking, listening/smelling, asking, palpation; meridian theory for acupuncture.",
+    "themes": [
+      "Plant-based Remedies",
+      "Ritual Healing"
+    ],
+    "years": [
+      -200,
+      2024
+    ],
+    "documents": [
+      {
+        "title": "Huangdi Neijing (translations vary)",
+        "url": "https://ctext.org/",
+        "type": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "islamicate-galenic",
+    "name": "Islamicate/Galenic Medicine",
+    "region": "Middle East & North Africa",
+    "coordinates": [
+      31.9539,
+      35.9106
+    ],
+    "keywords": [
+      "Avicenna",
+      "Ibn al-Nafis",
+      "Canon of Medicine"
+    ],
+    "summary": "Synthesis of Greek, Persian, and local knowledge; Avicenna\u2019s Canon served as a core medical encyclopedia for centuries.",
+    "tips": "Hospitals (bimaristans) flourished; commentarial traditions; pharmacology (saydalah).",
+    "themes": [
+      "Trade & Transmission",
+      "Epidemics"
+    ],
+    "years": [
+      800,
+      1600
+    ],
+    "documents": [
+      {
+        "title": "Canon of Medicine (Avicenna)",
+        "url": "https://archive.org/",
+        "type": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "tibetan-sowa-rigpa",
+    "name": "Sowa-Rigpa (Tibet & Himalaya)",
+    "region": "Himalaya",
+    "coordinates": [
+      29.65,
+      91.1
+    ],
+    "keywords": [
+      "Four Tantras",
+      "Men-Tsee-Khang"
+    ],
+    "summary": "Tibetan science of healing systematized in the Four Tantras; integrates Indian, Chinese, and local knowledge.",
+    "tips": "Pulse & urine diagnosis; medical thangkas; ma\u1e47\u1e0dala-based pedagogy.",
+    "themes": [
+      "Plant-based Remedies",
+      "Astral/Spiritual",
+      "Trade & Transmission"
+    ],
+    "years": [
+      1100,
+      2024
+    ],
+    "documents": [
+      {
+        "title": "rGyud bzhi (Four Tantras)",
+        "url": "https://bdrc.io/",
+        "type": "Catalog"
+      }
+    ]
+  }
+]

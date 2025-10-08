@@ -1,0 +1,1 @@
+import Link from 'next/link';export default function Carousel({items}){return(<div className='carousel'>{items.map((c,i)=>(<Link key={i} href={c.href} className='hover:bg-white/20'><div className='text-xs text-white/60'>{c.type}</div><div className='text-lg font-semibold'>{c.title}</div><p className='text-sm text-white/70 line-clamp-3 mt-1'>{c.description}</p></Link>))}</div>);}

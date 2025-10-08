@@ -1,0 +1,1 @@
+export default function P(){return(<div className='card prose prose-invert max-w-none'><h1>Ethics & Governance</h1><p>Aligned with UNDRIP, Nagoya Protocol, and community review. Entries specify licensing, consent, and use notes. Takedown/changes honored on request.</p></div>);}
